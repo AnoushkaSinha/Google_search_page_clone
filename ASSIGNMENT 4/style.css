@@ -1,0 +1,135 @@
+*{
+    font-family: Arial, sans-serif;
+}
+#logo{
+    width: 85px;
+    height: 80px;
+    padding:10px
+}
+
+body{
+    transition: 0.5s;
+}
+
+#search{
+   
+    height:40px;
+    width:100%;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: grey;
+    
+}
+.header{
+    display:flex ;
+    padding-left: 20px;
+   
+}
+#search_logo{
+    width:30px;
+    height:30px;
+    margin-top:35px;
+    padding-left: 10px;
+}
+#camera_logo{
+    width:30px;
+    height:30px;
+    margin-top:35px;
+    padding-left: 0px;
+}
+#micro_logo{
+    width:30px;
+    height:25px;
+    margin-top:35px;
+    padding-left: 10px;
+}
+
+#app_logo{
+    width:40px;
+    height:30px;
+    margin-top:35px;
+  margin-left: 205;
+}
+
+
+#settings_logo{
+    width:30px;
+    height:30px;
+    margin-top:35px;
+    margin-left: 50%;
+    padding-right: 20px;
+}
+
+
+
+
+#account_logo{
+    width:40px;
+    height:30px;
+    margin-top:35px;
+    margin-left:0% ;
+    padding-left: 20px;
+    
+}
+
+.navigation.navfooter1.navfooter2{
+    margin-bottom: 0%;
+    display:flex;
+    background-color: grey;
+}
+#activity{
+    color: grey;
+}
+
+
+ 
+
+
+nav {
+   position: sticky;
+    overflow: hidden;
+    margin-left: 150px;
+    margin-top: 0px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    
+    float: center;
+    color:grey;
+    font-size: 13px;
+}
+.navigation a:hover{
+    color:blue;
+}
+
+
+hr{
+    color: gray;
+}
+#navsearch{
+    width: 20px;
+    height:20px;
+}
+#google{
+    width: 20%;
+    height:20%;
+    margin-left: 100px;
+}
+.number a{
+    padding:7.3px;
+    color:blue;
+}
+.number a:hover{
+    color:black;
+}
+
+.sec{
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: 60%;
+    padding:1px;
+    
+}
